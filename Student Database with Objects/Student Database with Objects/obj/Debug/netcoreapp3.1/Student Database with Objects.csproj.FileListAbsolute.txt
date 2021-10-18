@@ -1,0 +1,14 @@
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.exe
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.deps.json
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.runtimeconfig.json
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.runtimeconfig.dev.json
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.dll
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\bin\Debug\netcoreapp3.1\Student Database with Objects.pdb
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.csproj.AssemblyReference.cache
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.AssemblyInfoInputs.cache
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.AssemblyInfo.cs
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.csproj.CoreCompileInputs.cache
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.dll
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.pdb
+C:\Users\mvarasteanu\source\repos\Student Database with Objects\Student Database with Objects\obj\Debug\netcoreapp3.1\Student Database with Objects.genruntimeconfig.cache
